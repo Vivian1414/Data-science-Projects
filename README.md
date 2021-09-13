@@ -12,4 +12,4 @@
 * Discussed the theoretical aspect of these techniques and the tools that can be used
 * Critically analysed and evaluated the applications of these techniques
 * Reviewed the available commercial and open-source data analysis software appropriate for the business 
-* Selected a business case with the data analysis requirements, synthesised a plan for addressing the probelms with the suggestions of the technique and the available software.
+* Selected a business case with the data analysis requirements, synthesised a plan for addressing the problems with the suggestions of the technique and the available software.
